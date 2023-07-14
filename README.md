@@ -30,3 +30,6 @@ Data-Driven Decision Making: The Sales Dashboard empowers us to make informed de
 Collaboration and Alignment: The dashboard's sharing capabilities foster collaboration and alignment among team members and stakeholders. By sharing the Sales Dashboard, everyone can access and interact with the data, facilitating discussions, alignment of goals, and collective efforts toward achieving sales targets.
 
 Overall, the outcomes derived from the Sales Dashboard include improved performance analysis, targeted decision-making, optimized resource allocation, enhanced collaboration, and the ability to drive growth and profitability by leveraging actionable insights.
+
+![IMG_20230712_163804](https://github.com/archana2727/Sales-Dashboard-overview/assets/134779663/dd641abe-d7db-415b-a7f8-4e2264a00b1e)
+
